@@ -1,0 +1,24 @@
+{
+  "name": "한칸 — 있는 재료로, 근사한 한 끼",
+  "short_name": "한칸",
+  "description": "내 재료와 취향을 아는 AI 식사 도우미",
+  "lang": "ko",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f7f0",
+  "theme_color": "#173f30",
+  "icons": [
+    {
+      "sizes": "192x192",
+      "purpose": "any",
+      "src": "/icon-192.png?v=hankan",
+      "type": "image/png"
+    },
+    {
+      "sizes": "512x512",
+      "purpose": "any maskable",
+      "src": "/icon-512.png?v=hankan",
+      "type": "image/png"
+    }
+  ]
+}
